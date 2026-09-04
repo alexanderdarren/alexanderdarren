@@ -21,8 +21,7 @@ Hi, I'm **alexanderdarren** — building my skills in **Web/App Development**.
 
 ### 📊 GitHub Stats
 
-![alexanderdarren's GitHub stats](https://github-stats-extended.vercel.app/api?username=alexanderdarren&show_icons=true&theme=default)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=alexanderdarren&layout=compact)
+![alexanderdarren's GitHub stats](https://github-stats-extended.vercel.app/api?username=alexanderdarren&show_icons=true&theme=default&hide_rank=true)
 
 ---
 ⭐️ Thanks for stopping by!
