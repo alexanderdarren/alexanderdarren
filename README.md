@@ -19,9 +19,5 @@ Hi, I'm **alexanderdarren** — building my skills in **Web/App Development**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📊 GitHub Stats
-
-![alexanderdarren's GitHub stats](https://github-stats-extended.vercel.app/api?username=alexanderdarren&show_icons=true&theme=default&hide_rank=true)
-
 ---
 ⭐️ Thanks for stopping by!
